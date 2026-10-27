@@ -14,7 +14,7 @@ ScraperAPI combines proxy rotation, JavaScript rendering, and structured parsing
 
 For a buyer, the practical appeal is fewer infrastructure pieces to coordinate. Compare the output you need: raw pages for your own parser, or structured fields for a reporting job. Before scaling, select representative pages and check whether the fields are complete. A returned page is only valuable if your downstream workflow can use it.
 
-### 👉 [Explore ScraperAPI and check the free trial](https://go.272738.xyz/scraperapi?src=gh_coupon_scraperapi_cta1)
+### 👉 [Explore ScraperAPI and check the free trial](https://scrape.mybskm.top/go/scraperapi)
 
 ---
 
@@ -30,7 +30,7 @@ Annual equivalents require annual billing. The official trial offers 5,000 credi
 
 Source: [ScraperAPI official pricing](https://www.scraperapi.com/pricing/). USD unless stated otherwise. Examples below are calculations, not customer results.
 
-### 👉 [Compare current ScraperAPI plans before you buy](https://go.272738.xyz/scraperapi?src=gh_coupon_scraperapi_cta2)
+### 👉 [Compare current ScraperAPI plans before you buy](https://scrape.mybskm.top/go/scraperapi)
 
 ---
 
@@ -42,7 +42,7 @@ At full allowance, Hobby costs $0.49 per 1,000 credits; Startup costs $0.149; Bu
 
 **Commit annually only after the workflow proves useful.** Business is $3,588 for twelve monthly payments versus $3,229.20 at the published annual equivalent: **$358.80 saved over a year**. Saving on a year you do not need is still overspending. Measure consumption first, then choose the commitment.
 
-### 👉 [Check the plan that fits your measured credit budget](https://go.272738.xyz/scraperapi?src=gh_coupon_scraperapi_cta3)
+### 👉 [Check the plan that fits your measured credit budget](https://scrape.mybskm.top/go/scraperapi)
 
 ---
 
@@ -66,4 +66,4 @@ No. The table is sourced from official pricing; the dollar examples are arithmet
 
 ---
 
-### 👉 [Start with your real targets — visit ScraperAPI](https://go.272738.xyz/scraperapi?src=gh_coupon_scraperapi_cta4)
+### 👉 [Start with your real targets — visit ScraperAPI](https://scrape.mybskm.top/go/scraperapi)
